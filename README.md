@@ -1,6 +1,6 @@
 # Looping Lab
 
-## Objectives
+## Objectives 
 
 - Build a `for` loop.
 - Build a `while` loop.
